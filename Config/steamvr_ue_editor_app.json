@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.top-down-bp-game-template-cl-9631420.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "H:/Personal Projects/EdensProblem/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Top Down BP Game Template-CL-9631420 [UE Editor]"
+				}
+			}
+		}
+	]
+}
